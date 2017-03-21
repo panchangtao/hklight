@@ -116,7 +116,7 @@ func GetDeviceLists(){
 }
 
 func main() {
-	GetDeviceLists()
+	//GetDeviceLists()
 	info := accessory.Info{
 		Name:         "Personal Light Bulb",
 		Manufacturer: "Matthias",
